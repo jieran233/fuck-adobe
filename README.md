@@ -2,13 +2,13 @@
 
 A set of rules for Mihomo
 
-I created a script that compares all Windows executable additions and deletions in `C:\` between two "snapshots". I used it to get a list of all executables added by installing PS 2025
+I created a script that compares all Windows executable additions and deletions in `C:\` between two "snapshots". I used it to get a list of all executables added by installing PS
 
 https://github.com/jieran233/execdiff
 
 ## Note
 
-- The rules are created for PS 2025
+- The rules are created for PS only currently
 - The rules assume PS 2025 is installed in the default location of `C:\`
 
 ## Usage
