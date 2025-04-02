@@ -27,7 +27,7 @@ use `rules.js`
  * @param prependRule 添加的数组
  */
 const prependRule = [
-  // Add the rules here (in `rules.js`)
+  // Add the rules here
   // Document: https://wiki.metacubex.one/en/config/rules/
   // "DOMAIN-SUFFIX,example.com,DIRECT",
 
