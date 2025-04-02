@@ -1,0 +1,59 @@
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CoreSync.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CRLogTransport.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\customhook\CoreSyncCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSync\LogCollectorTool\LogCollectorTool.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Adobe\Adobe Sync\CoreSyncPlugins\LiveType\customhook\uninstall.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Crash Processor.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\Adobe Desktop Service.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\CRLogTransport.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\ADS\customHook\ADSCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Adobe Update Helper.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\CRLogTransport.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\customhook\HDCoreCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\HDHelper.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Setup.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Set-up.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\TokenResolverx64.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Uninstaller.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\AdobeIPCBroker.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\CRLogTransport.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\IPCBox\customhook\AdobeIPCBrokerCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\LCC\adobe_licensing_helper.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\Runtime\customhook\RuntimeCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\Runtime\customhook\vc14\32bit\vcredist_x86.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\Runtime\customhook\vc14\64bit\vcredist_x64.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\CoreSyncExtension\customhook\CoreSyncCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\AdobeIPCBroker.exe,REJECT
+- PROCESS-PATH,C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\IPC\customhook\AdobeIPCBrokerCustomHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Creative Cloud Experience\CCXProcess.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\node_modules\adobe-cr\build\Release\Adobe Crash Processor.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\node_modules\adobe-cr\build\Release\CRLogTransport.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Creative Cloud Experience\js\node_modules\adobe-cr\build\Release\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Creative Cloud Experience\libs\node.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\convert.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\CRWindowsClientService.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\flitetranscoder.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\node.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Photoshop.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\PhotoshopPrefsManager.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\pngquant.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\CEP\CEPHtmlEngine\CEPHtmlEngine.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\Droplet Template.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\DynamicLinkMediaServer\amecommand.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\DynamicLinkMediaServer\dynamiclinkmanager.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\DynamicLinkMediaServer\dynamiclinkmediaserver.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\Required\DynamicLinkMediaServer\ImporterREDServer.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Adobe\Adobe Photoshop 2025\sniffer.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Adobe Desktop Common\NGL\adobe_licensing_wf_helper.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\CCLibrary.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\libs\CCLibraryUninstallHook.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Creative Cloud Libraries\libs\node.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Microsoft\EdgeWebView\msedgewebview2.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Microsoft\EdgeWebView\notification_helper.exe,REJECT
+- PROCESS-PATH,C:\Program Files\Common Files\Adobe\Microsoft\EdgeWebView\show_third_party_software_licenses.bat,REJECT

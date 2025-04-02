@@ -1,0 +1,59 @@
++/c/Program Files (x86)/Adobe/Adobe Creative Cloud Experience/CCXProcess.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSync/CoreSync.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSync/CRLogTransport.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSync/CRWindowsClientService.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSync/customhook/CoreSyncCustomHook.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSync/LogCollectorTool/LogCollectorTool.exe
++/c/Program Files (x86)/Adobe/Adobe Sync/CoreSyncPlugins/LiveType/customhook/uninstall.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/ADS/Adobe Crash Processor.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/ADS/CRLogTransport.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/ADS/CRWindowsClientService.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/ADS/customHook/ADSCustomHook.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/Adobe Update Helper.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/CRLogTransport.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/CRWindowsClientService.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/customhook/HDCoreCustomHook.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/HDHelper.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/Setup.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/Set-up.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/TokenResolverx64.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/HDBox/Uninstaller.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/IPCBox/AdobeIPCBroker.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/IPCBox/CRLogTransport.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/IPCBox/CRWindowsClientService.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/IPCBox/customhook/AdobeIPCBrokerCustomHook.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/LCC/adobe_licensing_helper.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/Runtime/customhook/RuntimeCustomHook.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/Runtime/customhook/vc14/32bit/vcredist_x86.exe
++/c/Program Files (x86)/Common Files/Adobe/Adobe Desktop Common/Runtime/customhook/vc14/64bit/vcredist_x64.exe
++/c/Program Files (x86)/Common Files/Adobe/CoreSyncExtension/customhook/CoreSyncCustomHook.exe
++/c/Program Files (x86)/Common Files/Adobe/OOBE/PDApp/IPC/AdobeIPCBroker.exe
++/c/Program Files (x86)/Common Files/Adobe/OOBE/PDApp/IPC/customhook/AdobeIPCBrokerCustomHook.exe
++/c/Program Files/Adobe/Adobe Creative Cloud Experience/CCXProcess.exe
++/c/Program Files/Adobe/Adobe Creative Cloud Experience/js/node_modules/adobe-cr/build/Release/Adobe Crash Processor.exe
++/c/Program Files/Adobe/Adobe Creative Cloud Experience/js/node_modules/adobe-cr/build/Release/CRLogTransport.exe
++/c/Program Files/Adobe/Adobe Creative Cloud Experience/js/node_modules/adobe-cr/build/Release/CRWindowsClientService.exe
++/c/Program Files/Adobe/Adobe Creative Cloud Experience/libs/node.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/convert.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/CRWindowsClientService.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/flitetranscoder.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/node.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Photoshop.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/PhotoshopPrefsManager.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/pngquant.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/CEP/CEPHtmlEngine/CEPHtmlEngine.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/Droplet Template.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/DynamicLinkMediaServer/amecommand.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/DynamicLinkMediaServer/dynamiclinkmanager.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/DynamicLinkMediaServer/dynamiclinkmediaserver.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/Required/DynamicLinkMediaServer/ImporterREDServer.exe
++/c/Program Files/Adobe/Adobe Photoshop 2025/sniffer.exe
++/c/Program Files/Common Files/Adobe/Adobe Desktop Common/NGL/adobe_licensing_wf.exe
++/c/Program Files/Common Files/Adobe/Adobe Desktop Common/NGL/adobe_licensing_wf_helper.exe
++/c/Program Files/Common Files/Adobe/Creative Cloud Libraries/CCLibrary.exe
++/c/Program Files/Common Files/Adobe/Creative Cloud Libraries/libs/CCLibraryUninstallHook.exe
++/c/Program Files/Common Files/Adobe/Creative Cloud Libraries/libs/node.exe
++/c/Program Files/Common Files/Adobe/Microsoft/EdgeWebView/msedgewebview2.exe
++/c/Program Files/Common Files/Adobe/Microsoft/EdgeWebView/notification_helper.exe
++/c/Program Files/Common Files/Adobe/Microsoft/EdgeWebView/show_third_party_software_licenses.bat
