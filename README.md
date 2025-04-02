@@ -9,7 +9,7 @@ https://github.com/jieran233/execdiff
 ## Note
 
 - The rules are created for PS only currently
-- The rules assume PS 2025 is installed in the default location of `C:\`
+- The rules assume PS is installed in the default location of `C:\`
 
 ## Usage
 
