@@ -63,8 +63,8 @@ local rules = {
     "PROCESS-PATH,C:\\Program Files\\Common Files\\Adobe\\Microsoft\\EdgeWebView\\show_third_party_software_licenses.bat,REJECT"
 }
 
-for _, rule in ipairs(rules) do
-    table.insert(config.rules, rule)
+for i = #rules, 1, -1 do
+    table.insert(config.rules, 1, rules[i])
 end
 
 return config
